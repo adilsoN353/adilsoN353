@@ -27,7 +27,8 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 
-<table border="15" >
+<table border="15" align="center" style="margin-left: 60px;">
+
   <tr>
     <td align="center">
       <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
