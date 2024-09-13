@@ -127,6 +127,16 @@
 ![GitHub Followers](https://img.shields.io/github/followers/adilsoN353?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/adilsoN353?style=social)
 
+
+
+<div align="center">
+
+<h2 align="left">🔥 Streak Stats</h2>  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adilsoN353&theme=whatsapp-dark2&border_radius=5.1&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
 <!-------------------------------------------------------------------------------------------------------------------->
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
