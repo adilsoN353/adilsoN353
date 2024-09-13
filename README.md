@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;;Welcome!)
+
 
 
 <p align="center" style="background-color: rgba(0, 0, 0, 0.6); display: inline-block; padding: 20px; border-radius: 10px; color: white;">
